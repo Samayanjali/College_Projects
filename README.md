@@ -1,1 +1,1 @@
-# Miniproject_I
+# COLLEGE_PROJECTS
